@@ -1,0 +1,54 @@
+﻿/* Dracula */
+#background {
+    background-color: #282A36;
+}
+
+#foreground {
+    color: #F8F8F2;
+}
+
+#selection {
+    color: #44475A;
+}
+
+#comment {
+    color: #6272A4;
+}
+
+#red {
+    color: #FF5555;
+}
+
+#orange {
+    color: #FFB86C;
+}
+
+#yellow {
+    color: #F1FA8C;
+}
+
+#green {
+    color: #50FA7B;
+}
+
+#purple {
+    color: #BD93F9;
+}
+
+#cyan {
+    color: #8BE9FD;
+}
+
+#pink {
+    color: #FF79C6;
+}
+/* Other */
+.headlink {
+    color: #8BE9FD;
+    font-size: 23px;
+    display: inline-block;
+}
+
+    .headlink span {
+        color: #BD93F9;
+    }
